@@ -48,7 +48,7 @@ Pre-requisites
 Build Application and run the tests
 1. Download or clone the git repository locally
 2. Change to toyrobot directory
-3. Compile :At the command prompt 
+3. Compile At the command prompt
 mvn clean
 mvn install
 mvn package
